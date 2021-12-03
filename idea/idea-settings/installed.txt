@@ -1,0 +1,15 @@
+Pythonid
+com.chrisrm.idea.MaterialThemeUI
+com.github.copilot
+com.intellij.jira
+com.intellij.lang.jsgraphql
+com.jinsihou.react.snippets
+com.mallowigi
+com.markskelton.one-dark-theme
+gileli121.glasside.windows
+github.cweijan.test-theme
+intellij.prettierJS
+mobi.hsz.idea.gitignore
+net.ashald.envfile
+org.jetbrains.plugins.vue
+ru.adelf.idea.dotenv

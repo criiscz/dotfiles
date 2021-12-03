@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="procfile" type="AUTO_DETECTED" />
+      <mapping pattern="NumberInput.jsx" type="AUTO_DETECTED" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+    </extensionMap>
+  </component>
+</application>

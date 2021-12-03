@@ -1,0 +1,10 @@
+<application>
+  <component name="Jira.Issues.App.Settings">
+    <option name="HIGHLIGHTERS">
+      <map>
+        <entry key="MY_ISSUES" value="false" />
+        <entry key="RESOLVED_ISSUES" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>dark_criiscz</id>
+  <editorColorsScheme>DarkerCriiscz</editorColorsScheme>
+  <dark>true</dark>
+  <name>DarkerCriiscz</name>
+  <colors>
+    <color id="background" value="000001ff"/>
+    <color id="foreground" value="b3b5bfff"/>
+    <color id="text" value="9a9ed0ff"/>
+    <color id="highlight" value="0f0f21ff"/>
+    <color id="selectionBackground" value="3f3d46ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="191a21ff"/>
+    <color id="secondaryBackground" value="09090eff"/>
+    <color id="disabled" value="11121aff"/>
+    <color id="contrast" value="020202ff"/>
+    <color id="tableSelected" value="07070eff"/>
+    <color id="secondBorder" value="060614ff"/>
+    <color id="treeSelection" value="0a0b1eff"/>
+    <color id="notifications" value="090b10ff"/>
+    <color id="accent" value="5a80cdff"/>
+    <color id="excluded" value="412e2eff"/>
+  </colors>
+  <themeId>dark_criiscz</themeId>
+</mtTheme>
